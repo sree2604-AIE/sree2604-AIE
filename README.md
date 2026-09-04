@@ -54,7 +54,7 @@
 <h1 align="center" style="color: #E6B800; font-family: monospace;">🐍 My Contributions</h1>
 <div align="center">
   <!-- Uses the dark mode snake animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/sree2604-AIE/about-me/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation">
 </div>
 
 <br>
