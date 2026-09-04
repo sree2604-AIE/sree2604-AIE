@@ -61,11 +61,6 @@
 
   <br/>
 
-  <div align="center">
-    <h2>🔥 GitHub Analytics (Live)</h2>
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="500">
-  </div>
-
   <!-- I've added your actual username so these widgets will work perfectly now! -->
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=sree2604-AIE&theme=dracula&margin-w=15&margin-h=15" />
