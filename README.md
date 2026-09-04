@@ -48,14 +48,14 @@
 
 <h2>📊 GitHub Analytics</h2>
 <p align="center">
-  <!-- Removed the table constraint so these images will render at FULL size! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sree2604-AIE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- Switched to github-stats-extended to fix broken image links -->
+  <img src="https://github-stats-extended.vercel.app/api?username=sree2604-AIE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sree2604-AIE&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sree2604-AIE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sree2604-AIE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <br>
