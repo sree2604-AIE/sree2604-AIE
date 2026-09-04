@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm [SREE HARSHITH S]</h1>
-<h3 align="center">A passionate developer building cool things</h3>
+<h3 align="center">B.Tech CSE (AI) Student | AI Engineer Aspirant | Machine Learning & Deep Learning Enthusiast | Full Stack Developer</h3>
+<h4 align="center">🚀 Building Real-World Projects • 💡 Exploring AI & MERN Stack • 📚 Continuous Learner</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -17,6 +18,12 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /> <b>About Me:</b>
 </p>
 
+- 🎓 **B.Tech Computer Science (Artificial Intelligence)**
+- 🤖 Interested in **Machine Learning & Deep Learning**
+- 💻 Passionate about **Full Stack Development**
+- 🛠️ Building impactful **AI + Web Projects**
+- 🌱 Currently learning **advanced development & scalable systems**
+- ⚡ Goal: Become an **AI Engineer + Software Developer**
 - 📫 How to reach me: **[sreeharshith26@gmail.com]**
 
 ---
@@ -32,20 +39,6 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Stats:</h3>
-
-<div align="center">
-  <!-- IMPORTANT: Replace YOUR_GITHUB_USERNAME below with your actual GitHub username! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
 
 <h3 align="center">📫 Connect with me:</h3>
 
