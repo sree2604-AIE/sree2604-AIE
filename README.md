@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [SREE HARSHITH S]</h1>
+<h1 align="center">Hi , I'm SREE HARSHITH S</h1>
 <h3 align="center">B.Tech CSE (AI) Student | AI Engineer Aspirant | Machine Learning & Deep Learning Enthusiast | Full Stack Developer</h3>
 <h4 align="center">🚀 Building Real-World Projects • 💡 Exploring AI & MERN Stack • 📚 Continuous Learner</h4>
 
