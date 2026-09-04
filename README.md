@@ -25,7 +25,7 @@
 
 <br><br>
 
-<h1 align="center" style="color: #E6B800; font-family: monospace;">🧠 NEURAL_ARCHITECTURE.md</h1>
+<h1 align="center" style="color: #E6B800; font-family: monospace;">💫 About Me</h1>
 <blockquote style="border-left: 5px solid #E6B800; background: rgba(230, 184, 0, 0.05); padding: 20px; border-radius: 0px 15px 15px 0px;">
   <h3 style="color:#E6B800; margin-top: 0;"><b>» B.Tech CSE (Artificial Intelligence)</b></h3>
   <p style="font-size: 16px; color: #FFFFFF;">Architecting the future. I am an AI Engineer specializing in Deep Learning, Neural Networks, and scalable Backend Systems. My mission is to bridge the gap between complex theoretical machine learning models and high-performance, real-world full-stack deployments.</p>
@@ -35,7 +35,7 @@
 
 <br>
 
-<h1 align="center" style="color: #E6B800; font-family: monospace;">⚙️ CORE_PROCESSING_UNITS</h1>
+<h1 align="center" style="color: #E6B800; font-family: monospace;">💻 Tech Stack & Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Focused completely on AI / Backend / Architecture -->
@@ -51,21 +51,7 @@
 
 <br>
 
-<!-- LIVE ANALYTICS WITH CUSTOM TECH THEME -->
-<h1 align="center" style="color: #E6B800; font-family: monospace;">📈 SYSTEM_METRICS (LIVE)</h1>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sree2604-AIE&show_icons=true&bg_color=000000&title_color=E6B800&text_color=ffffff&icon_color=E6B800&border_color=E6B800&hide_border=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sree2604-AIE&background=000000&stroke=E6B800&ring=E6B800&fire=E6B800&currStreakNum=ffffff&currStreakLabel=E6B800&sideNums=ffffff&sideLabels=ffffff&dates=cccccc&hide_border=false&border=E6B800" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sree2604-AIE&layout=donut&bg_color=000000&title_color=E6B800&text_color=ffffff&icon_color=E6B800&border_color=E6B800&hide_border=false" alt="Top Languages" />
-</p>
-
-<br>
-
-<h1 align="center" style="color: #E6B800; font-family: monospace;">🌐 GLOBAL_CONTRIBUTION_GRID</h1>
+<h1 align="center" style="color: #E6B800; font-family: monospace;">🐍 My Contributions</h1>
 <div align="center">
   <!-- Uses the dark mode snake animation -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation">
