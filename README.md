@@ -106,7 +106,7 @@ contact:   sreeharshith26@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sree2604-AIE/about-me/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/sree2604-AIE/sree2604-AIE/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 <br>
@@ -117,7 +117,7 @@ contact:   sreeharshith26@gmail.com
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sree2604-AIE/about-me/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sree2604-AIE/sree2604-AIE/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 <br>
